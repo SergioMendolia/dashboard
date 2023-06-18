@@ -6,8 +6,8 @@ const GreeterContainer = styled.div`
 
 const GreetText = styled.h1`
   font-weight: 900;
-  font-size: 3rem;
-  margin: 0.5rem 0;
+  font-size: 2rem;
+  margin: 0.2rem 0;
   color: ${(props) => props.theme.mainColor};
 `;
 
